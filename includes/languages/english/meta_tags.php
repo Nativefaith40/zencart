@@ -7,10 +7,10 @@
  */
 
 // page title
-define('TITLE', 'Wang Store');
+define('TITLE', 'Zen Cart!');
 
 // Site Tagline
-define('SITE_TAGLINE', 'The Best Store!');
+define('SITE_TAGLINE', 'The Art of E-commerce');
 
 // Custom Keywords
 define('CUSTOM_KEYWORDS', 'ecommerce, open source, shop, online shopping, store');
